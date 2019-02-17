@@ -7,7 +7,8 @@ public class test {
 
 		System.out.println("This is the first Java Project in this laptop");
 		
-		
+		System.out.println("This is the second Java Project in this laptop");
+
 	}
 
 }
